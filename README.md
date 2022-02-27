@@ -1,3 +1,9 @@
+My team 'QSchrodinger' finished 30th out of almost 400 teams.
+
+![image](https://user-images.githubusercontent.com/77266161/155878528-bcc6c00d-59de-4511-9d9a-4ba62496384e.png)
+
+
+
 ![image](img/qhack-banner.png)
 
 Welcome to [QHack](https://qhack.ai), the one-of-a-kind quantum computing hackathon! 
